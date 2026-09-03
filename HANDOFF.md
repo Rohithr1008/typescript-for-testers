@@ -1,20 +1,20 @@
-# Project Handoff — TypeScript for Testers (2-Part Thin Kit)
+﻿# Project Handoff â€” TypeScript for Testers (2-Part Thin Kit)
 
 > **Purpose:** Everything a fresh session needs to continue this repo. Read this first.  
-> **Scope:** Thin **Phase A** TypeScript for automation testers only. Do **not** expand into full TS develop careers here — that is Phase B (`typescript-develop-test`). Do **not** edit `html-css-essentials` or `automation-tester-path` from this workstream unless explicitly asked.
+> **Scope:** Thin **Phase A** TypeScript for automation testers only. Do **not** expand into full TS develop careers here â€” that is Phase B (`typescript-develop-test`). Do **not** edit `html-css-essentials` or `automation-tester-path` from this workstream unless explicitly asked.
 
 ---
 
 ## 1. Overview
 
-ADHD-friendly study kit: types you need for **test helpers, fixtures, and light POM** — plus a tiny JS→TS migrate lab and a Playwright+TS overview.
+ADHD-friendly study kit: types you need for **test helpers, fixtures, and light POM** â€” plus a tiny JSâ†’TS migrate lab and a Playwright+TS overview.
 
 | Part | Title | Sections | Covers |
 |---|---|---|---|
 | 1 | Basics for testers | 10 | Why TS, primitives, interfaces, unions, optional, aliases, pitfalls |
 | 2 | Playwright-oriented | 10 | tsconfig, Playwright+TS, POM/helpers, migrate lab, reading errors |
 
-**Status:** Parts 1–2 complete (three editions each + hub + labs).
+**Status:** Parts 1â€“2 complete (three editions each + hub + labs).
 
 **Repo:** https://github.com/Rohithr1008/typescript-for-testers
 
@@ -25,7 +25,7 @@ ADHD-friendly study kit: types you need for **test helpers, fixtures, and light 
 | Umbrella | [`../automation-tester-path/README.md`](../automation-tester-path/README.md) |
 | Previous | HTML/CSS Part 1 or JE |
 | Next | [`../playwright-essentials/`](../playwright-essentials/README.md) |
-| Phase B | [`../typescript-develop-test/`](../typescript-develop-test/) — full TS develop + test (not this kit) |
+| Phase B | [`../typescript-develop-test/`](../typescript-develop-test/) â€” full TS develop + test (not this kit) |
 
 ---
 
@@ -47,10 +47,10 @@ Study-app localStorage: `tsN-sec-K`, `tsN-theme`, `tsN-font`, `tsN-boost`.
 
 ## 3. Pedagogy
 
-- Every teaching section: `> 🚩 **Why it matters:**`
+- Every teaching section: `> ðŸš© **Why it matters:**`
 - Three editions per part; quizzes / flashcards / Spot-the-Bug / certificate pattern (thin, like Perf Basics)
 - Accent: TypeScript blue `#3178C6`
-- Lab is **conceptual compare** (no `tsc` required to study); optional `npx tsc --noEmit` if user has TS installed
+- Lab is **conceptual compare** (no `tsc` required to study); optional `npx -p typescript tsc --noEmit` if user has TS installed
 
 ---
 
@@ -72,4 +72,4 @@ Study-app localStorage: `tsN-sec-K`, `tsN-theme`, `tsN-font`, `tsN-boost`.
 
 ## 6. Status
 
-Scaffold + Parts 1–2 content + labs + hub docs — initial kit complete.
+Scaffold + Parts 1â€“2 content + labs + hub docs â€” initial kit complete.

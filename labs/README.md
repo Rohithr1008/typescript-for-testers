@@ -12,7 +12,7 @@ Tiny **JS → TS migrate** pair (Part 2 §5).
 Optional (if TypeScript is installed globally or via npx):
 
 ```bash
-npx --yes typescript@5.6.3 --noEmit labs/migrate-after.ts
+npx --yes -p typescript@5.6.3 tsc --noEmit --strict --target ES2020 --module commonjs labs/migrate-after.ts
 ```
 
 (May warn about `module` settings — the point is reading the annotations, not shipping a build.)
