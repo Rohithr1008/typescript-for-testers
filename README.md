@@ -9,7 +9,7 @@ Thin, ADHD-friendly kit: **TypeScript for writing and maintaining automation** �
 
 **This kit is NOT enough for full TypeScript-only develop jobs.** It teaches the types you need for helpers, fixtures, and Playwright page objects.
 
-**Phase B — TypeScript Develop + Test** (`../typescript-develop-test/`) is the deeper kit for building apps *and* tests in TypeScript. Finish Phase A (this kit → Playwright → harden/API/perf) before treating TS as a career track.
+**Phase B — TypeScript Develop + Test** ([`../typescript-develop-test/`](../typescript-develop-test/) ✅) is the deeper kit for building apps *and* tests in TypeScript. Finish Phase A (this kit → Playwright → harden/API/perf) before treating TS as a career track. **Start Phase B:** [`../typescript-develop-test/START_HERE.md`](../typescript-develop-test/START_HERE.md)
 
 ### Path navigation
 
@@ -18,7 +18,7 @@ Thin, ADHD-friendly kit: **TypeScript for writing and maintaining automation** �
 | **Umbrella** | [`../automation-tester-path/README.md`](../automation-tester-path/README.md) · [`START_HERE` (path)](../automation-tester-path/START_HERE.md) |
 | **Previous** | [HTML & CSS Essentials](../html-css-essentials/) (Part 1) · or [JavaScript Essentials](../javascript-essentials/README.md) |
 | **Next** | [Playwright Essentials](../playwright-essentials/README.md) |
-| **Phase B** | [TypeScript Develop + Test](../typescript-develop-test/) (not this repo) |
+| **Phase B** | [TypeScript Develop + Test](../typescript-develop-test/) ✅ — hub [`index.html`](../typescript-develop-test/index.html) |
 | **Siblings** | JE · Playwright · API & Data · Perf Basics |
 
 ---
